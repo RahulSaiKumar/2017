@@ -10,3 +10,4 @@ U.S.-Births |  Contains U.S. Births data for the years 1994 to 2003, as provided
 Thanksgiving-Dinner | Contains 1058 responses to an online survey about what Americans eat for Thanksgiving dinner.
 Gender-Gap-in-College-Degrees | Comparing the gender gap across college degrees in USA
 NYC-High-School-Data | Analysing the SAT scores obtained against survey questions and other parameters of high schools in New York City
+Star-Wars-Franchise | Which is the best movie from the Star Wars Franchise?
