@@ -12,4 +12,4 @@ Gender-Gap-in-College-Degrees | Comparing the gender gap across college degrees 
 NYC-High-School-Data | Analysing the SAT scores obtained against survey questions and other parameters of high schools in New York City
 Star-Wars-Franchise | Which is the best movie from the Star Wars Franchise?
 Jeopardy | To figure out patterns in the Questions to better prepare for the Game
-Movie-Reviews | To find out where movie ratings by Fandango are misleading
+Movie-Reviews | To find out whether movie ratings by Fandango are misleading
